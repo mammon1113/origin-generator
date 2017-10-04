@@ -21,4 +21,4 @@ tags:
 10.hexo deploy
 11.进入「你的用户名.github.io」对应的 repo，打开 GitHub Pages 功能，如果已经打开了，就直接点击预览链接
 12.你现在应该看到了你的博客！
-                                            ----摘自饥人谷xuedaimala.com
+                                            ----摘自饥人谷xiedaimala.com
